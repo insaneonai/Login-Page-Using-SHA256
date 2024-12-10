@@ -1,0 +1,7 @@
+libdir=C:\Users\Jeyadevan\Documents\Visual Studio 2022\Projects\Login-Page-Using-SHA256\openssl-3.3.0\src
+includedir=C:\Users\Jeyadevan\Documents\Visual Studio 2022\Projects\Login-Page-Using-SHA256\openssl-3.3.0\src\include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 3.3.0
+Requires: libssl libcrypto
